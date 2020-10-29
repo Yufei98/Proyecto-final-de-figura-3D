@@ -62,7 +62,9 @@ Y por ultimo podemos observar la escalacion y la rotacion de la figura esferica 
 
 _______________________________________________
 
+
 * CONCLUNCION
+
 Fue un proyecto algo dificil ya que utlilizamos la libreria glut y hubo algunos probleas con los entornos de desarrollo pero al final conseguimos y eso nos ayuda para la formacion de ingeniero en sistema y tambien para saber hacer modelado y graficacion en 3D
 
 
