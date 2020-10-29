@@ -20,3 +20,7 @@ mostraremos es codigo en la parte de abajo en cual veran que utlizamos de derech
 _________________________________________________________
 
 En esta parte utlizamos el metodo para que nos acepten las letras que seria rotar en a y s en j es tamaño, la k es tamaño menor y la u t i es para escalacion
+
+![3](https://user-images.githubusercontent.com/66337547/97625508-36f70000-19ee-11eb-9352-71812d6e246a.png)
+
+_____________________________________________________________
