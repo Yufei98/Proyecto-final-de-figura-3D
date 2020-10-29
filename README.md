@@ -8,3 +8,9 @@ PASO 1 MOSTRAR CODIGO
 
 * En este proyecto presentaremos un trabajo grupal en el cual utlilizaremos la libreria de glut para asi elaborar una figura 3D que represente rotacion
 traslaccion y escalacion en cual mostraremos el codigo a continuacion cabe mencionar que el proyecto esta hecho en un lenguaje de programacion en c++ en cual utilizaremos un entorno de derarrollo llamado dev c++ ya que ese entorno fue de nuetro agrado y fue mas comodo realizar el proyecto aun que al principio hubo problemas de parte de la libreria glut.
+
+![1](https://user-images.githubusercontent.com/66337547/97623891-ec748400-19eb-11eb-8d6c-82aedcdb2840.png)
+
+___________________________________________________
+
+mostraremos es codigo en la parte de abajo en cual veran que utlizamos de derecha a izquierda utlizando la variable switch en el cual asignaremos las cordenadas de la figura tambien utlilizaremos break
