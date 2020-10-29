@@ -42,5 +42,15 @@ PASO 2 MUETRA DE EJERCIO YA REALIZADO
 
 En la imagen acontinuacion mostrara el ejercicio ya realizado en cual la figura circular empezara desde cero, podemos observar que la figura Esferica tiene un aspectro tridimencional en cual nos mostrara la escalacion, rotacion y traslacion
 
+![5](https://user-images.githubusercontent.com/66337547/97627611-3a3fbb00-19f1-11eb-9fc7-c078e50276f3.png)
+
+_________________________________________________
+
+IMAGEN DEL EJEMPLO 2
+
+En esta imagen podemos opservar la escalacion de x,y  y en cual la esfera se puede mmover con los botones del teclado 
+
+
+
 
 
