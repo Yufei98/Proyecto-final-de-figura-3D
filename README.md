@@ -13,7 +13,7 @@ traslaccion y escalacion en cual mostraremos el codigo a continuacion cabe menci
 
 ___________________________________________________
 
-mostraremos es codigo en la parte de abajo en cual veran que utlizamos de derecha a izquierda utlizando la variable switch en el cual asignaremos las cordenadas de la figura tambien utlilizaremos break
+Mostraremos es codigo en la parte de abajo en cual veran que utlizamos de derecha a izquierda utlizando la variable switch en el cual asignaremos las cordenadas de la figura tambien utlilizaremos break
 
 ![2](https://user-images.githubusercontent.com/66337547/97624884-593c4e00-19ed-11eb-95c5-bec9373ed76f.png)
 
@@ -24,3 +24,6 @@ En esta parte utlizamos el metodo para que nos acepten las letras que seria rota
 ![3](https://user-images.githubusercontent.com/66337547/97625508-36f70000-19ee-11eb-9352-71812d6e246a.png)
 
 _____________________________________________________________
+
+Utlizamos el metodo de movimiento que son las tecla izquierda y derecha, y el keyboard para la escalacion y rotacion 
+al igual que las posiciones de la figura
