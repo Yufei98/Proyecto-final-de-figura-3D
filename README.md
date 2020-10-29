@@ -14,3 +14,9 @@ traslaccion y escalacion en cual mostraremos el codigo a continuacion cabe menci
 ___________________________________________________
 
 mostraremos es codigo en la parte de abajo en cual veran que utlizamos de derecha a izquierda utlizando la variable switch en el cual asignaremos las cordenadas de la figura tambien utlilizaremos break
+
+![2](https://user-images.githubusercontent.com/66337547/97624884-593c4e00-19ed-11eb-95c5-bec9373ed76f.png)
+
+_________________________________________________________
+
+En esta parte utlizamos el metodo para que nos acepten las letras que seria rotar en a y s en j es tamaño, la k es tamaño menor y la u t i es para escalacion
