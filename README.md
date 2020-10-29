@@ -48,7 +48,17 @@ _________________________________________________
 
 IMAGEN DEL EJEMPLO 2
 
-En esta imagen podemos opservar la escalacion de x,y  y en cual la esfera se puede mmover con los botones del teclado 
+En esta imagen podemos observar la escalacion de x,y  y en cual la esfera se puede mmover con los botones del teclado 
+
+![6](https://user-images.githubusercontent.com/66337547/97627977-be923e00-19f1-11eb-9e38-251a6b2edb49.png)
+
+_________________________________________________
+
+IMAGEN DEL EJEMPLO 3
+
+Y por ultimo podemos observar la escalacion y la rotacion de la figura esferica en cual es en 3D hecho en c++
+
+
 
 
 
